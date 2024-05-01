@@ -1,0 +1,31 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=moisture_sensor_v1
+# Date=23:29:45
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.1.0.2rc2-1-gdbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Via1,";;;;;;;;","",465.932,4717.67,0,Top,MANUAL
+R1,"220;;;;;0.25W;;;","THT",1624.51,3159.09,45,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",1191.57,3117.67,90,Top,THT
+R5,"220;;;;;0.25W;;;","THT",1624.51,4359.09,45,Top,THT
+LED5,";;;;0.030A;;;;","5 mm [THT]",1191.57,4317.67,90,Top,THT
+R6,"10;;;;;0.25W;;;","THT",1624.51,4559.09,45,Top,THT
+LED4,";;;;0.030A;;;;","5 mm [THT]",1191.57,4017.67,90,Top,THT
+BAT1,";;;9V;;;;;","bc9vpc",1205.93,1234.21,-90,Top,SMT
+S1,";;;;;;;;","[THT]",1193.89,4629.09,0,Top,THT
+R3,"220;;;;;0.25W;;;","THT",1624.51,3859.09,45,Top,THT
+R4,"220;;;;;0.25W;;;","THT",1624.51,4159.09,45,Top,THT
+R2,"220;;;;;0.25W;;;","THT",1624.51,3559.09,45,Top,THT
+M1,";;;;;;;;","",567.275,3686.81,180,Top,MANUAL
+LED3,";;;;0.030A;;;;","5 mm [THT]",1191.57,3717.67,90,Top,THT
+LED2,";;;;0.030A;;;;","5 mm [THT]",1191.57,3417.67,90,Top,THT
